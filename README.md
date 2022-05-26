@@ -2,7 +2,7 @@
 just copy of data from Kaggle to simplify import to Google Colab environment
 
 # IMPORTANT! 
-Dataset in this repository is not my work! It's just downloaded and unyipped dataset from Kaggle:
+Dataset in this repository is not my work! It's just downloaded and unzipped dataset from Kaggle:
 
 https://www.kaggle.com/datasets/muratkokludataset/pumpkin-seeds-dataset
 
