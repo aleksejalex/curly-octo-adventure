@@ -12,3 +12,5 @@ https://link.springer.com/article/10.1007/s10722-021-01226-0
 https://link.springer.com/content/pdf/10.1007/s10722-021-01226-0.pdf
 
 
+## Netflix dataset:
+downloaded from >> https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data
